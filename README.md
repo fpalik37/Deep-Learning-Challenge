@@ -36,7 +36,7 @@ The original dataset utilized in model construction:
 
 ***charity_data.csv***
 
-The final **Analysis Report**, complete with a *touch of color* and a *few smiles sprinkled about*:
+The final **Analysis Report**, complete with a chart, bullet points, and even a *touch of color* and a *few smiles sprinkled about*:
 
 ***Analysis_Report.docx***
 
